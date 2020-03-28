@@ -141,9 +141,8 @@ body {
   position: relative;
   background-image: url(https://images.pexels.com/photos/1024248/pexels-photo-1024248.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-
+background-repeat: no-repeat;
+background-size: cover;
   flex-direction: column;
 
   align-items: center;
@@ -340,7 +339,7 @@ body {
   border: 1px solid #f3f7f7;
   background-color: transparent;
   color: #f3f7f7;
-  margin:  20% 10% 20% 10%;
+  margin: 10%;
 }
 
 .services__items__card img {
@@ -350,7 +349,7 @@ body {
 
 .latest-works__link a,
 .services__items__card a {
-
+  
   text-decoration: none;
   cursor: pointer;
   font-size: 100%;
