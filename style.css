@@ -141,7 +141,8 @@ body {
   position: relative;
   background-image: url(https://images.pexels.com/photos/1024248/pexels-photo-1024248.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   background-position: center center;
-
+  background-repeat: no-repeat;
+  background-size: cover;
 
   flex-direction: column;
 
