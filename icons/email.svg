@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <circle style="fill: rgb(37, 35, 186);" cx="242.061" cy="253.862" r="211.238"/>
+  <rect x="99.326" y="136.331" width="283.084" height="189.75" style="fill: rgb(216, 216, 216);"/>
+  <rect x="104.392" y="141.36" width="270.364" height="181.223" style="fill: rgb(37, 35, 186);"/>
+  <line style="stroke: rgb(253, 247, 247); stroke-width: 5px;" x1="102.332" y1="140.036" x2="235.382" y2="229.302"/>
+  <line style="stroke: rgb(244, 239, 239); stroke-width: 5px;" x1="235.189" y1="228.125" x2="374.95" y2="145.033"/>
+</svg>
