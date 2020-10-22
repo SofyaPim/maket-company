@@ -26,25 +26,3 @@ secondDot.style.backgroundImage = "url(icons/dot-2.png)";
  
      
   })
-// prev.addEventListener("click", function SlideRight(){ 
-
-//   do  {
-//  document.querySelector('.team-member__items__band').style.transform = "translateX(22px)";
- 
-//  secondDot.style.backgroundImage = "url(dot.png)";
-//     firstDot.style.backgroundImage = "url(dot-2.png)";
-//     }
-//     while (document.querySelector('.team-member__items__band').style.transform = "translateX(200px )");
-//  });
-
-//  next.addEventListener("click", function SlideLeft(){ 
-//   do  {
-//       document.querySelector('.team-member__items__band').style.transform = "translateX(-20%)";
-//       firstDot.style.backgroundImage = "url(dot.png)";
-//    secondDot.style.backgroundImage = "url(dot-2.png)";
-   
-//    }
-//    while(document.querySelector('.team-member__items__band').style.transform = "translateX(0)");
-    
-        
-//      })
