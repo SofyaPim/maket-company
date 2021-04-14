@@ -21,8 +21,14 @@ const images = () => {
                 imgPopup.style.display = 'flex';
                 document.body.style.overflow = 'hidden';
                 const path = target.parentNode.getAttribute('href');
-                bigImage.style.width = '70%';
-                bigImage.style.height = '90%';
+                if(document.body.clientWidth > document.body.clientHeight){
+                   bigImage.style.width = '60%';
+                bigImage.style.height = '100%';
+                } else {
+                  bigImage.style.width = '85%';
+                bigImage.style.height = '50%';
+                }
+               
                 bigImage.setAttribute('src', path);
 
               } 
