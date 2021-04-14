@@ -22,8 +22,8 @@ const images = () => {
                 document.body.style.overflow = 'hidden';
                 const path = target.parentNode.getAttribute('href');
                 if(document.body.clientWidth > document.body.clientHeight){
-                   bigImage.style.width = '60%';
-                bigImage.style.height = '100%';
+                   bigImage.style.width = '75%';
+                bigImage.style.height = '80%';
                 } else {
                   bigImage.style.width = '85%';
                 bigImage.style.height = '50%';
