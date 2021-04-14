@@ -1085,6 +1085,7 @@ margin-bottom: 20px;
 
   .latest-works__img {
     width: 80%;
+    flex-direction: column;
   }
   .latest-works__img a{
     width: 80%;
