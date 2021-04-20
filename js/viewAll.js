@@ -11,7 +11,7 @@ btn = document.querySelector(trigger);
          card.classList.remove('hidden');
         card.classList.add('block');
        })
-    
+    btn.remove();
        
     })
 
