@@ -22,11 +22,11 @@ const images = () => {
                 document.body.style.overflow = 'hidden';
                 const path = target.parentNode.getAttribute('href');
                 if(document.body.clientWidth > document.body.clientHeight){
-                   bigImage.style.width = '75%';
-                bigImage.style.height = '80%';
+                   bigImage.style.width = '80%';
+               // bigImage.style.height = '80%';
                 } else {
-                  bigImage.style.width = '85%';
-                bigImage.style.height = '50%';
+                  bigImage.style.width = '65%';
+                //bigImage.style.height = '65%';
                 }
                
                 bigImage.setAttribute('src', path);
